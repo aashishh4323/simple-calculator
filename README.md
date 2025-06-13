@@ -38,4 +38,4 @@ This project helped me practice JavaScript fundamentals and build confidence in 
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/aashishh4323/simple-calculator.git
